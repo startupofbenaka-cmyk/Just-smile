@@ -1,0 +1,6 @@
+{
+  "name": "Just Smile Dental Clinic",
+  "description": "Premium, trustworthy dental clinic in Girinagar, Bengaluru near Narayana PU College offering modern, personalized family dental care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
